@@ -1,0 +1,21 @@
+/*
+Charlie "Big" Bushman
+Nick "The Cheese" Grader
+05/04/16
+
+Age of Neddard
+
+This is a mix of a turn-based campaign game and a strategy card game. The player can move
+their armies around a campaign map and try to conquer their opponenet(s). The battles 
+themselves will be card games reminiscent of Magic the Gathering.
+
+*/
+
+
+
+
+public class AgeOfNeddardGame{
+   public static void main(String[] args){
+      
+   }
+}
